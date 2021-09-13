@@ -9,10 +9,10 @@
 
 Each page is created with the help of different tags mainly
 * p tag
-* <img> tag
-* <a> tag
-* <b> tag
-* <strong> tag
-* <emp> tag
-* <h2> tag
-* <hr> tag
+* img tag
+* a tag
+* b tag
+* strong tag
+* emp tag
+* h2 tag
+* hr tag
