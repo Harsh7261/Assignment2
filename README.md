@@ -8,7 +8,7 @@
 
 
 Each page is created with the help of different tags mainly
-* <p> tag
+* p tag
 * <img> tag
 * <a> tag
 * <b> tag
